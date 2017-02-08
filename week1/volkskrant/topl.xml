@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>VK:Toplijsten</title>
+    <link>http://www.volkskrant.nl</link>
+    <description>Volkskrant.nl biedt het laatste nieuws, opinie en achtergronden</description>
+    <language>nl-NL</language>
+    <copyright>De Persgroep Publishing Nederland NV</copyright>
+    <pubDate>Mon, 06 Feb 2017 12:54:18 GMT</pubDate>
+    <lastBuildDate>Mon, 06 Feb 2017 12:54:18 GMT</lastBuildDate>
+    <image>
+      <title>Volkskrant.nl - laatste nieuws, opinie en achtergronden</title>
+      <url>http://static3.persgroep.net/volkskrant/static/img/logos/volkskrant/rss_logo.png?r=de9ef05e</url>
+      <link>http://www.volkskrant.nl</link>
+      <width>16</width>
+      <height>16</height>
+    </image>
+  </channel>
+</rss>
